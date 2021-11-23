@@ -5,7 +5,7 @@ Es un agrado tenerte en mi perfil
 Egresada de Laboratoria como Front-End Developer. De profesión Comunicadora Audiovisual con mención en Cine, Directora de Arte. Fisioterapeuta y Terapeuta Integral. Me apasiona cada cosa que hago. Mi creatividad, gran empatía, atención al detalle y trabajo en equipo en ambientes dinámicos me permiten crear y organizar proyectos desde lo conceptual a su ejecución. Creo firmemente que desde la tecnología puedo aportar soluciones que contribuyan a crear un mundo mejor.
 
 <div align="center">
-<h3> Vania Venegas | 💻 Front End Developer | Comunicación Audiovisual | Fisioterapeuta </h3>
+<h3> Vania Venegas | 💻 Front End Developer | 🎥Comunicación Audiovisual | 🧘‍♀️Fisioterapeuta </h3>
 </div>
 <div align="center"><img src="https://i.pinimg.com/564x/72/7b/3c/727b3cf20073d5f1e66ba0337cd1272a.jpg" width="40%"/> </div>
 
