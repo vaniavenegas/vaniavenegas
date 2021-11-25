@@ -18,7 +18,6 @@ Egresada de Laboratoria como Front-End Developer. Me apasiona cada cosa que hago
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=white" alt="Figma" title="Fifma" height="30" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="30" /> <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="30" /> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="30" />
-
 <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=lightgrey" alt="GitHub logo" title="GitHub" height="25" />
 
 
