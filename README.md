@@ -2,9 +2,9 @@
 Es un agrado tenerte en mi perfil
 
 ## Sobre mí:
-Soy Fronte End developer con ganas de aprender más de backend.
-Egresada de Laboratoria. 
-Trabajé 3 años en Entel (CL) como desarrolladora.
+Soy Front End developer con ganas de aprender más de backend. <br/>
+Egresada de Laboratoria. <br/>
+Trabajé 3 años en Entel (CL) como desarrolladora. <br/>
 Me apasiona cada cosa que hago. Mi creatividad, gran empatía, atención al detalle y trabajo en equipo en ambientes dinámicos me permiten crear y organizar proyectos desde lo conceptual a su ejecución. Creo firmemente que desde la tecnología puedo aportar soluciones que contribuyan a mejorar el mundo que me rodea. Además de profesión soy Comunicadora Audiovisual con mención en Cine, Directora de Arte. Fisioterapeuta y Terapeuta Integral.
 
 <div align="center">
