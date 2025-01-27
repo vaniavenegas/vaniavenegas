@@ -10,7 +10,7 @@ Me apasiona cada cosa que hago. Mi creatividad, gran empatía, atención al deta
 <div align="center">
 <h3> Vania Venegas | 💻 Front End Developer | 🎥Comunicación Audiovisual | 🧘‍♀️Fisioterapeuta </h3>
 </div>
-<div align="center"><img src="https://i.pinimg.com/564x/72/7b/3c/727b3cf20073d5f1e66ba0337cd1272a.jpg" width="40%"/> </div>
+
 
 ## Lenguajes y Herramientas:
 
