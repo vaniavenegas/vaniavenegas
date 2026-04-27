@@ -2,10 +2,14 @@
 Es un agrado tenerte en mi perfil
 
 ## Sobre mí:
-Soy Front End developer con ganas de aprender más de backend. <br/>
-Egresada de Laboratoria. <br/>
-Trabajé 3 años en Entel (CL) como desarrolladora. <br/>
-Me apasiona cada cosa que hago. Mi creatividad, gran empatía, atención al detalle y trabajo en equipo en ambientes dinámicos me permiten crear y organizar proyectos desde lo conceptual a su ejecución. Creo firmemente que desde la tecnología puedo aportar soluciones que contribuyan a mejorar el mundo que me rodea. Además de profesión soy Comunicadora Audiovisual con mención en Cine, Directora de Arte. Fisioterapeuta y Terapeuta Integral.
+Soy Front End Developer Semi Senior, con interés en fortalecer mis habilidades en backend y arquitectura de software.
+Egresada de Laboratoria, con experiencia en Entel Chile y actualmente desarrolladora en Consorcio.
+
+Me apasiona crear soluciones digitales que conecten con las personas. Destaco por mi creatividad, atención al detalle y capacidad de trabajo en equipo en entornos dinámicos.
+
+Creo en la tecnología como una herramienta para generar impacto real, aportando valor a través de productos funcionales, escalables y bien diseñados.
+
+Además de mi perfil técnico, soy Comunicadora Audiovisual con mención en Cine y Directora de Arte, lo que me permite integrar una mirada estética y estratégica en el desarrollo de experiencias digitales.
 
 <div align="center">
 <h3> Vania Venegas | 💻 Front End Developer | 🎥Comunicación Audiovisual | 🧘‍♀️Fisioterapeuta </h3>
